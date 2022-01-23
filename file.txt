@@ -1,2 +1,2 @@
 I'm from master node.
-test for automate build.
+test for automate build,,,,.
